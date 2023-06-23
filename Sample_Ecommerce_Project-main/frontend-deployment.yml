@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: umme23habiba/project
+          image: umme23habiba/test-web
           ports:
             - containerPort: 80
 
